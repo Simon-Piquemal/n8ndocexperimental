@@ -41,7 +41,7 @@
   "navigation": [
     {
       "group": "Home",
-      "pages": ["introduction", "development", "CHANGELOG"]
+      "pages": ["introduction", "development", "CHANGELOG", "CODE_OF_CONDUCT"]
     },
     {
       "group": "Learn More",
